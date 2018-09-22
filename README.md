@@ -3,6 +3,13 @@ toitText is a lightweight text editor written in PHP. The goal of this project w
 
 <strong>toitText is experimental and not extensively tested. Use it at your own risk! I am not liable for lost data!</strong>
 
+<h2>Current features:</h2>
+<ul>
+  <li>Saving and loading files on a web server</li>
+  <li>Tabbing</li>
+  <li>Trivial security (login)</li>
+</ul>
+
 <h2>Future features?</h2>
 <ul>
   <li>File renaming</li>
